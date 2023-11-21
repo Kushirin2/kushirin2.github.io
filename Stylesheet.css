@@ -1,0 +1,98 @@
+body {
+    background-color: black;
+	overflow-x: hidden;
+}
+
+
+
+h1{
+    background-color: white;
+    text-align: center;
+}
+
+h4 {
+	font-size: 17px;
+}
+
+p{
+	text-align: center;
+}
+
+.border-container {
+text-align: center;
+}
+
+.border1 {
+display: inline-block;
+border-style: solid;
+margin: 10px;
+padding: 10px;
+background-color: white;
+border-width: 2px;
+height: auto;
+width: 30%;
+border-radius: 25px;
+text-align: center;
+}
+
+.border2 {
+	display: inline-block;
+	border-style: solid;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	border-width: 2px;
+	height: auto;
+	width: 60%;
+	border-radius: 25px;
+	text-align: center;
+	vertical-align: top;
+}
+
+article {
+	border-bottom: 2px solid #000;
+}
+
+img {
+	width: 80%;
+	height: auto;
+}
+
+#myProgress {
+	width: 100%;
+	background-color: grey;
+}
+
+#myJSBar {
+	width: 1%;
+	height: 30px;
+	background-color: green;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+}
+
+#myCSSBar {
+	width: 1%;
+	height: 30px;
+	background-color: green;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+}
+
+#myHTMLBar {
+	width: 1%;
+	height: 30px;
+	background-color: green;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+	
+}
+
+footer{
+	transform: translate(0, 10px);
+    float: right;
+    color: white;
+}
